@@ -106,7 +106,7 @@ class Solution {
         while(rev.size() > 0) {
             arr[index++] = rev.pop();
         }
-        
+         
         return arr;
         
     }
